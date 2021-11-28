@@ -1,10 +1,14 @@
 # HOLLAND_BTE121_CUBIC_1
+
 # The Netherlands - BTE121 projection - Cubic Chunks
+
+Cubic Chunks (1.12.2) conversion of https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D
 
 Missing so far (pieces of sea with transparant/holes Google 3d Earth data voxelized pixels), doing later...
 r.5959.-10414
 r.5959.-10413
 
+![clipboard_small](https://github.com/HakkaTjakka/HOLLAND_BTE121_CUBIC_1/blob/main/WORLD/region.png)
 
 CUBIC.P.Q.ZIP
 
