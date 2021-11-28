@@ -1,5 +1,10 @@
 # HOLLAND_BTE121_CUBIC_1
-The Netherlands - BTE121 projection - Cubic Chunks
+# The Netherlands - BTE121 projection - Cubic Chunks
+
+Missing so far (pieces of sea with transparant/holes Google 3d Earth data voxelized pixels), doing later...
+r.5959.-10414
+r.5959.-10413
+
 
 CUBIC.P.Q.ZIP
 
