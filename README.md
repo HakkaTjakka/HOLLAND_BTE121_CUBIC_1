@@ -20,5 +20,5 @@ and according region3d files region3d/x.z.3dr to region3d/x+1.z+1.3dr
 
 So CUBIC.635.-1063.ZIP will be region2d/6350.-10639.2dr to 6359.-10630.2dr (X=6350 to X=6359 inclusive and Y=-10639 to Y=-10630 inclusive)
 
-
+Some video's of some tiles: https://www.youtube.com/watch?v=02H8qi3PQ_g&list=PLetXkEBOuSmaL81R-8mXmhIcgHYCi8biA&index=5
 
