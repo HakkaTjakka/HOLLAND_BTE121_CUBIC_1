@@ -22,3 +22,6 @@ So CUBIC.635.-1063.ZIP will be region2d/6350.-10639.2dr to 6359.-10630.2dr (X=63
 
 Some video's of some tiles: https://www.youtube.com/watch?v=02H8qi3PQ_g&list=PLetXkEBOuSmaL81R-8mXmhIcgHYCi8biA&index=5
 
+Webserver online: http://83.83.222.154/web/nl/ or http://83.83.222.154/web/nl/index2.html for older Leaflet script (no info on tiles, no lines between tiles)
+
+When on zoom level 18 you see 'VIDEO' on the tile press right mouse button for 3d animation of region file.
