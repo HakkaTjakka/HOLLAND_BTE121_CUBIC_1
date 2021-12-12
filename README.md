@@ -25,3 +25,7 @@ Some video's of some tiles: https://www.youtube.com/watch?v=02H8qi3PQ_g&list=PLe
 Webserver online: http://83.83.222.154/web/nl/ or http://83.83.222.154/web/nl/index2.html for older Leaflet script (no info on tiles, no lines between tiles)
 
 When on zoom level 18 you see 'VIDEO' on the tile press right mouse button for 3d animation of region file.
+
+# 4 THOSE WHO DOWNLOADED THE WHOLE REPO(S): SEND LINK / EMAIL IF YOU WANT TO GET SOME SPECIAL (READY AND TO BE MADE) TOOLS FOR DOING STUFF WITH THE CONTENT.
+
+Like: (Automated) editing the region files. Adding/deleting/changing stuff, objects, voxels, fill, replace, etc. etc. etc. Voxelizer. 3d animation tools. Real time 3d editing. Movies. Automated command blocks. Tunneling system. Geo tools. Map plotting. Posterizing area's/regions mega large high dpi. And/or custom requests for code or tools.
