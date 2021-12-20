@@ -2,6 +2,8 @@
 
 # The Netherlands - BTE121 projection - Cubic Chunks
 
+# ETA whole conversion + upload = +/- 6 jan 2022
+
 Locked, continued on: https://github.com/HakkaTjakka/HOLLAND_BTE121_CUBIC_2
 
 Cubic Chunks (1.12.2) conversion of https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D
