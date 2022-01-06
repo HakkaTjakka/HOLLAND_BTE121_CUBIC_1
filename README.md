@@ -28,6 +28,7 @@ Webserver online: http://83.83.222.154/web/nl/ or http://83.83.222.154/web/nl/in
 
 When on zoom level 18 you see 'VIDEO' on the tile press right mouse button for 3d animation of region file.
 
-# 4 THOSE WHO DOWNLOADED THE WHOLE REPO(S): SEND LINK / EMAIL IF YOU WANT TO GET SOME SPECIAL (READY AND TO BE MADE) TOOLS FOR DOING STUFF WITH THE CONTENT.
-
 Like: (Automated) editing the region files. Adding/deleting/changing stuff, objects, voxels, fill, replace, etc. etc. etc. Voxelizer. 3d animation tools. Real time 3d editing. Movies. Automated command blocks. Tunneling system. Geo tools. Map plotting. Posterizing area's/regions mega large high dpi. And/or custom requests for code or tools.
+
+[![Demo CountPages alpha](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/MAP/tiles.jpg)](https://github.com/HakkaTjakka/HOLLAND_BTE121_CUBIC_1/blob/main/r.6098.-10442.mp4)
+(Click to play vid)
